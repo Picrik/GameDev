@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(266,34): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(289,34): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(345,31): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(348,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(376,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(380,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(405,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(409,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(432,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(436,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Picrik\source\repos\Timber\Timber.cpp(465,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Timber.vcxproj -> C:\Users\Picrik\source\repos\Timber\Debug\Timber.exe
